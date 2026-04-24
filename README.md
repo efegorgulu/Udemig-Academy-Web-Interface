@@ -3,7 +3,7 @@
 A static **academy web interface** built with **HTML5, SCSS (SASS), and CSS3**, featuring a modern landing page, course sections, informational content, and a structured layout compiled from modular SCSS files.
 
 ## Screenshot
-![](Screen.gif)
+![](screen.gif)
 
 ## Highlights
 - **Header layout** with brand logo, navigation menu, and social media icons  
