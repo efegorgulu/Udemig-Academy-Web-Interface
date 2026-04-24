@@ -40,4 +40,4 @@ GitHub: https://github.com/efegorgulu
 
 ## License
 This project is intended for **portfolio purposes only**.  
-It is **not affiliated with, endorsed by, or associated with any real educational institution.
+It is **not affiliated with, endorsed by, or associated with any real educational institution.**
