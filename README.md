@@ -27,6 +27,23 @@ A static **academy web interface** built with **HTML5, SCSS (SASS), and CSS3**, 
 1. Clone or download this repository  
 2. Open `index.html` in your preferred web browser  
 
+### Optional (for developers)
+If you want to edit SCSS files:
+
+1. Install Sass:
+   ```bash
+   npm install -g sass
+   ```
+2. Compile SCSS to CSS:
+   ```bash
+   sass style.scss style.css
+   ```
+
+### Recommended (VS Code)
+- Open the project in Visual Studio Code  
+- Install a Sass extension (e.g., Live Sass Compiler)  
+- Run the compiler to automatically generate CSS  
+
 ## Project Notes
 - Front-end user interface only (**no backend or JavaScript functionality**)  
 - SCSS is structured using **partials and compiled into a single CSS file**  
